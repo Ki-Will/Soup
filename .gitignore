@@ -13,7 +13,6 @@ venv/
 env/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -60,3 +59,7 @@ docs/superpowers/
 
 # Layer-streaming disk-throughput probe scratch file (soup doctor --disk / training pre-flight)
 .soup-diskprobe-*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
